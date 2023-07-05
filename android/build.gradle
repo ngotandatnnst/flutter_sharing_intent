@@ -47,7 +47,7 @@ android {
         minSdkVersion 16
     }
 
-    namespace 'com.techind.flutter_sharing_intente'
+    namespace 'com.techind.flutter_sharing_intent'
 }
 
 dependencies {
